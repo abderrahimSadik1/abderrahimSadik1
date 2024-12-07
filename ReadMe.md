@@ -4,7 +4,7 @@
 - 💻 **Software Engineer** passionate about building innovative **software solutions**.
 - 🎯 Always eager to learn and explore new technologies.
 - ☕ Java Developer with experience crafting robust backends and scalable applications.
-- ♟️ Still tuning my skills, one unexpected blunder at a time!
+- ♟️ **Chess player** — still tuning my skills, one unexpected blunder at a time!
 - 🎮 **Souls games** enthusiast — always up for a challenge and ready to face the toughest bosses!
 
 # 💻 Tech Stack:
