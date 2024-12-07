@@ -3,8 +3,8 @@
 
 - 💻 **Software Engineer** passionate about building innovative **software solutions**.
 - 🎯 Always eager to learn and explore new technologies.
-- 🦠 **Go Newbie** — Just started learning Go and excited about its simplicity and power.
-- ♟️ Aspiring chess grandmaster (in my dreams) — still tuning my skills, one unexpected blunder at a time!
+- ☕ Java Developer with experience crafting robust backends and scalable applications.
+- ♟️ Still tuning my skills, one unexpected blunder at a time!
 - 🎮 **Souls games** enthusiast — always up for a challenge and ready to face the toughest bosses!
 
 # 💻 Tech Stack:
